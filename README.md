@@ -1,4 +1,10 @@
-### Hi! i'm a junior data scientist with a background in architecture and anthropology
+Hi there☺️! I'm a junior data scientist with a background in architecture 👷🏽‍♀️ and anthropology. I enjoy exploring all kinds of topics with a special interest in all cultural and constructed environment subjects👩🏽‍💻.
+
+
+📫 How to reach me: 
+genesisrojas@gmail.com
+
+😄 Pronouns: she/her
 
 <!--
 **GenesisRojasR/GenesisRojasR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,9 +17,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
-📫 How to reach me: 
-genesisrojas@gmail.com
 
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->

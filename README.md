@@ -2,9 +2,13 @@ Hi there☺️! I'm a junior data scientist with a background in architecture �
 
 
 📫 How to reach me: 
-genesisrojas@gmail.com
 
-😄 Pronouns: she/her
+📩 genesisrojas@gmail.com
+
+💼[LinkedIn](https://www.linkedin.com/in/genesisrojas/)
+
+
+
 
 <!--
 **GenesisRojasR/GenesisRojasR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

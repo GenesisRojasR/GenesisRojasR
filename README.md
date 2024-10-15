@@ -1,4 +1,4 @@
-Hi there☺️! I'm a junior data scientist with a background in architecture 👷🏽‍♀️ and anthropology. I enjoy exploring all kinds of topics with a special interest in all cultural and constructed environment subjects👩🏽‍💻.
+Data scientist with expertise in Generative AI and bussiness consultancy specializing in developing and implementing AI and ML driven solutions for diverse scopes & domains. This github is currently under construction👷🏽‍♀️, but feel free to take a look at my initial projects 🔍
 
 
 📫 How to reach me: 
